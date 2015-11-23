@@ -36,4 +36,4 @@ setup(name='z3c.soap',
       install_requires=[
           'setuptools',
           'Products.PluggableAuthService',
-          'ZSI'],)
+          'infi.zsi'],)
